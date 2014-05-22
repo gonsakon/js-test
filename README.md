@@ -10,3 +10,5 @@ js-test
 * [8.初識function(2)](http://codepen.io/liao/pen/gtsuH)
 * [9.初識function(3)](http://codepen.io/liao/pen/hCfeo)
 * [10.console.log觀察語法](http://codepen.io/liao/pen/eynDl)
+* 
+* [if、for、each、set.timeout、jquery、jquery 選擇器、onclick、cookie、localstorage、重複計算、height()、width()]
