@@ -20,4 +20,6 @@ js-test
 jQuery
 --------
 * [1.jQuery初識](http://codepen.io/liao/pen/EdvaG)
-* [2.jQuery初識](http://codepen.io/liao/pen/buEnc)
+* [1.jQuery環境](http://codepen.io/liao/pen/Cbwcz)
+* [2.jQuery選擇元素](http://codepen.io/liao/pen/buEnc)
+* [3.jQuery一般api功能](http://codepen.io/liao/pen/vszjw)
