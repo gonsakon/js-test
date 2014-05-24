@@ -10,12 +10,14 @@ js-test
 * [5.變數與單雙引號的注意事項](http://codepen.io/liao/full/cgECh)
 * [6.原生ID選擇器的寫法](http://codepen.io/liao/full/ownjB)
 * [7.初識function(1)](http://codepen.io/liao/pen/gtsuH)
+* [8.function+變數儲存](http://codepen.io/liao/pen/bqsiL)
 * [8.console.log觀察語法](http://codepen.io/liao/pen/eynDl)
 * [9.註解](http://codepen.io/liao/pen/qsehI)
 * [10.變數從上到下](http://codepen.io/liao/pen/rGnIK)
 * [11.初識function(2)](http://codepen.io/liao/pen/gtsuH)
 * [12.初識function(3)](http://codepen.io/liao/pen/hCfeo)
 * [13.定時器](http://codepen.io/liao/pen/nrFhx)
+* [15.noscript](http://codepen.io/liao/pen/xdnsL)
 * [if、for、each、set.timeout、jquery、jquery 選擇器、onclick、cookie、localstorage、重複計算、height()、width()]
 
 jQuery
@@ -41,8 +43,8 @@ jQuery
 
 
 
-http://codepen.io/liao/pen/xdnsL
-http://codepen.io/liao/pen/bqsiL
+
+
 http://codepen.io/liao/pen/yDdAf
 http://codepen.io/liao/pen/noKtC
 http://codepen.io/liao/pen/LyKkf
