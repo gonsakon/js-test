@@ -15,7 +15,7 @@ js-test
 * [10.變數從上到下](http://codepen.io/liao/pen/rGnIK)
 * [11.初識function(2)](http://codepen.io/liao/pen/gtsuH)
 * [12.初識function(3)](http://codepen.io/liao/pen/hCfeo)
-
+* [13.定時器](http://codepen.io/liao/pen/nrFhx)
 * [if、for、each、set.timeout、jquery、jquery 選擇器、onclick、cookie、localstorage、重複計算、height()、width()]
 
 jQuery
@@ -31,13 +31,14 @@ jQuery
 * [9.事件處理](http://codepen.io/liao/pen/qaAHe)
 * [10.click & toggle](http://codepen.io/liao/pen/bnJzo)
 * [11.click & offset](http://codepen.io/liao/pen/DHwzi)
-* [12.滾動視差 ](http://codepen.io/liao/pen/nIoCe)
+* [12.this](http://codepen.io/liao/pen/fCIbF)
+* [13.滾動視差 ](http://codepen.io/liao/pen/nIoCe)
+* [14.字體大中小 ](http://codepen.io/liao/pen/gvbln)
 
 
 
 
-http://codepen.io/liao/pen/fCIbF
-http://codepen.io/liao/pen/nrFhx
+
 http://codepen.io/liao/pen/dIFof
 http://codepen.io/liao/pen/xdnsL
 http://codepen.io/liao/pen/bqsiL
