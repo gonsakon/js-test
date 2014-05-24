@@ -10,26 +10,28 @@ js-test
 * [5.變數與單雙引號的注意事項](http://codepen.io/liao/full/cgECh)
 * [6.原生ID選擇器的寫法](http://codepen.io/liao/full/ownjB)
 * [7.初識function(1)](http://codepen.io/liao/pen/gtsuH)
-* [10.console.log觀察語法](http://codepen.io/liao/pen/eynDl)
-* [11.變數從上到下](http://codepen.io/liao/pen/rGnIK)
-* [8.初識function(2)](http://codepen.io/liao/pen/gtsuH)
-* [9.初識function(3)](http://codepen.io/liao/pen/hCfeo)
+* [8.console.log觀察語法](http://codepen.io/liao/pen/eynDl)
+* [9.註解](http://codepen.io/liao/pen/qsehI)
+* [10.變數從上到下](http://codepen.io/liao/pen/rGnIK)
+* [11.初識function(2)](http://codepen.io/liao/pen/gtsuH)
+* [12.初識function(3)](http://codepen.io/liao/pen/hCfeo)
 
 * [if、for、each、set.timeout、jquery、jquery 選擇器、onclick、cookie、localstorage、重複計算、height()、width()]
 
 jQuery
 --------
 * [1.jQuery初識](http://codepen.io/liao/pen/EdvaG)
-* [1.環境建置](http://codepen.io/liao/pen/Cbwcz)
-* [2.選擇元素](http://codepen.io/liao/pen/buEnc)
-* [3.增加css設定](http://codepen.io/liao/pen/vszjw)
-* [4.選擇元素+css設定](http://codepen.io/liao/pen/IGxfy)
+* [2.環境建置](http://codepen.io/liao/pen/Cbwcz)
+* [3.選擇元素](http://codepen.io/liao/pen/buEnc)
+* [4.增加css設定](http://codepen.io/liao/pen/vszjw)
+* [5.選擇元素+css設定](http://codepen.io/liao/pen/IGxfy)
+* [6.增加、刪除元素內容](http://codepen.io/liao/pen/EoinC)
+* [7.連動效果](http://codepen.io/liao/pen/AnaDt)
+* [8.變數取值](http://codepen.io/liao/pen/ogtlz)
+* [9.事件處理](http://codepen.io/liao/pen/qaAHe)
 
 
-http://codepen.io/liao/pen/EoinC
-http://codepen.io/liao/pen/AnaDt
-http://codepen.io/liao/pen/ogtlz
-http://codepen.io/liao/pen/qaAHe
+
 http://codepen.io/liao/pen/bnJzo
 http://codepen.io/liao/pen/DHwzi
 http://codepen.io/liao/pen/nIoCe
