@@ -29,10 +29,11 @@ jQuery
 * [7.連動效果](http://codepen.io/liao/pen/AnaDt)
 * [8.變數取值](http://codepen.io/liao/pen/ogtlz)
 * [9.事件處理](http://codepen.io/liao/pen/qaAHe)
+* [10.click & toggle](http://codepen.io/liao/pen/bnJzo)
 
 
 
-http://codepen.io/liao/pen/bnJzo
+
 http://codepen.io/liao/pen/DHwzi
 http://codepen.io/liao/pen/nIoCe
 http://codepen.io/liao/pen/fCIbF
