@@ -30,12 +30,12 @@ jQuery
 * [8.變數取值](http://codepen.io/liao/pen/ogtlz)
 * [9.事件處理](http://codepen.io/liao/pen/qaAHe)
 * [10.click & toggle](http://codepen.io/liao/pen/bnJzo)
+* [11.click & offset](http://codepen.io/liao/pen/DHwzi)
+* [12.滾動視差 ](http://codepen.io/liao/pen/nIoCe)
 
 
 
 
-http://codepen.io/liao/pen/DHwzi
-http://codepen.io/liao/pen/nIoCe
 http://codepen.io/liao/pen/fCIbF
 http://codepen.io/liao/pen/nrFhx
 http://codepen.io/liao/pen/dIFof
