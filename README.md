@@ -30,16 +30,17 @@ jQuery
 * [8.變數取值](http://codepen.io/liao/pen/ogtlz)
 * [9.事件處理](http://codepen.io/liao/pen/qaAHe)
 * [10.click & toggle](http://codepen.io/liao/pen/bnJzo)
-* [11.click & offset](http://codepen.io/liao/pen/DHwzi)
-* [12.this](http://codepen.io/liao/pen/fCIbF)
-* [13.滾動視差 ](http://codepen.io/liao/pen/nIoCe)
-* [14.字體大中小 ](http://codepen.io/liao/pen/gvbln)
+* [11.click & toggleClass & fixed](http://codepen.io/liao/pen/dIFof)
+* [12.click & offset](http://codepen.io/liao/pen/DHwzi)
+* [13.this](http://codepen.io/liao/pen/fCIbF)
+* [14.滾動視差 ](http://codepen.io/liao/pen/nIoCe)
+* [15.字體大中小 ](http://codepen.io/liao/pen/gvbln)
 
 
 
 
 
-http://codepen.io/liao/pen/dIFof
+
 http://codepen.io/liao/pen/xdnsL
 http://codepen.io/liao/pen/bqsiL
 http://codepen.io/liao/pen/yDdAf
