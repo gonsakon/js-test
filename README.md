@@ -8,17 +8,19 @@ js-test
 * [3.初識js事件](http://codepen.io/liao/full/ArIyc) 
 * [4.初識變數](http://codepen.io/liao/full/JedxF) 
 * [5.變數與單雙引號的注意事項](http://codepen.io/liao/full/cgECh)
-* [6.原生ID選擇器的寫法](http://codepen.io/liao/full/ownjB)
-* [7.初識function(1)](http://codepen.io/liao/pen/gtsuH)
-* [8.function+變數儲存](http://codepen.io/liao/pen/bqsiL)
-* [8.console.log觀察語法](http://codepen.io/liao/pen/eynDl)
-* [9.註解](http://codepen.io/liao/pen/qsehI)
-* [10.變數從上到下](http://codepen.io/liao/pen/rGnIK)
-* [11.初識function(2)](http://codepen.io/liao/pen/gtsuH)
-* [12.初識function(3)](http://codepen.io/liao/pen/hCfeo)
-* [13.定時器](http://codepen.io/liao/pen/nrFhx)
-* [15.noscript](http://codepen.io/liao/pen/xdnsL)
-* [if、for、each、set.timeout、jquery、jquery 選擇器、onclick、cookie、localstorage、重複計算、height()、width()]
+* [6.變數加減乘除](http://codepen.io/liao/pen/etmbc)
+* [7.變數數字+字串](http://codepen.io/liao/pen/evpzy)
+* [8.原生ID選擇器的寫法](http://codepen.io/liao/full/ownjB)
+* [9.初識function(1)](http://codepen.io/liao/pen/gtsuH)
+* [10.function帶變數](http://codepen.io/liao/pen/ajILd)
+* [11.function+變數儲存](http://codepen.io/liao/pen/bqsiL)
+* [12.console.log觀察語法](http://codepen.io/liao/pen/eynDl)
+* [13.註解](http://codepen.io/liao/pen/qsehI)
+* [14.變數從上到下](http://codepen.io/liao/pen/rGnIK)
+* [15.初識function(2)](http://codepen.io/liao/pen/gtsuH)
+* [16.初識function(3)](http://codepen.io/liao/pen/hCfeo)
+* [17.定時器](http://codepen.io/liao/pen/nrFhx)
+* [18.noscript](http://codepen.io/liao/pen/xdnsL)
 
 jQuery
 --------
@@ -37,6 +39,16 @@ jQuery
 * [13.this](http://codepen.io/liao/pen/fCIbF)
 * [14.滾動視差 ](http://codepen.io/liao/pen/nIoCe)
 * [15.字體大中小 ](http://codepen.io/liao/pen/gvbln)
+* [16.插入內容append ](http://codepen.io/liao/pen/utcfj)
+* [17.if](http://codepen.io/liao/pen/IkyqB)
+* [18.插入內容append & if 驗證](http://codepen.io/liao/pen/goJLD)
+* [19.插入內容append & binding](http://codepen.io/liao/pen/nhzey)
+
+Data
+--------
+* [1.json ](http://codepen.io/liao/pen/yDdAf)
+* [2.cookie](http://codepen.io/liao/pen/noKtC)
+* [3.localstorage](http://codepen.io/liao/pen/LyKkf)
 
 
 
@@ -45,12 +57,7 @@ jQuery
 
 
 
-http://codepen.io/liao/pen/yDdAf
-http://codepen.io/liao/pen/noKtC
-http://codepen.io/liao/pen/LyKkf
-http://codepen.io/liao/pen/etmbc
-http://codepen.io/liao/pen/evpzy
-http://codepen.io/liao/pen/utcfj
+
 http://codepen.io/liao/pen/qLJgA
 http://codepen.io/liao/pen/FgGlk
 http://codepen.io/liao/pen/KFltC
