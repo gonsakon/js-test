@@ -49,34 +49,3 @@ Data
 * [1.json ](http://codepen.io/liao/pen/yDdAf) spa、ajax
 * [2.cookie](http://codepen.io/liao/pen/noKtC) http://www.adpartner.me/rtb.html baha
 * [3.localstorage](http://codepen.io/liao/pen/LyKkf) 萌典
-
-
-
-
-
-
-
-
-
-http://codepen.io/liao/pen/qLJgA
-http://codepen.io/liao/pen/FgGlk
-http://codepen.io/liao/pen/KFltC
-http://codepen.io/liao/pen/AlJIz
-http://codepen.io/liao/pen/njIkD
-http://codepen.io/liao/pen/nDFcz
-http://codepen.io/liao/pen/LvKez
-http://codepen.io/liao/pen/iEpea
-http://codepen.io/liao/pen/KHaAG
-http://codepen.io/liao/pen/vAomp
-http://codepen.io/liao/pen/kCfyL
-http://codepen.io/liao/pen/rhFxJ
-http://codepen.io/liao/pen/fomad
-http://codepen.io/liao/pen/cFdAj
-http://codepen.io/liao/pen/earKq
-http://codepen.io/liao/pen/HIjdp
-http://codepen.io/liao/pen/BfmGj
-http://codepen.io/liao/pen/ufKmh
-http://codepen.io/liao/pen/vHDfb
-http://codepen.io/liao/pen/rAGvK
-http://codepen.io/liao/pen/Hmlbh
-http://codepen.io/liao/pen/ujChe
