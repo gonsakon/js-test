@@ -11,9 +11,9 @@ js-test
 * [6.變數加減乘除](http://codepen.io/liao/pen/etmbc) 
 * [7.變數數字+字串](http://codepen.io/liao/pen/evpzy)
 * [8.原生ID選擇器的寫法](http://codepen.io/liao/full/ownjB)
-* [9.初識function(1)](http://codepen.io/liao/pen/gtsuH) lativ
+* [9.初識function(1)](http://codepen.io/liao/pen/gtsuH) asap
 * [10.function帶變數](http://codepen.io/liao/pen/ajILd)
-* [11.function+變數儲存](http://codepen.io/liao/pen/bqsiL)
+* [11.function+變數儲存](http://codepen.io/liao/pen/bqsiL) google訂單
 * [12.console.log觀察語法](http://codepen.io/liao/pen/eynDl)
 * [13.註解](http://codepen.io/liao/pen/qsehI)
 * [14.變數從上到下](http://codepen.io/liao/pen/rGnIK)
@@ -32,23 +32,23 @@ jQuery
 * [6.增加、刪除元素內容](http://codepen.io/liao/pen/EoinC)
 * [7.連動效果](http://codepen.io/liao/pen/AnaDt)
 * [8.變數取值](http://codepen.io/liao/pen/ogtlz)
-* [9.事件處理](http://codepen.io/liao/pen/qaAHe)
-* [10.click & toggle](http://codepen.io/liao/pen/bnJzo)
+* [9.事件處理](http://codepen.io/liao/pen/qaAHe) womary
+* [10.click & toggle](http://codepen.io/liao/pen/bnJzo) 
 * [11.click & toggleClass & fixed](http://codepen.io/liao/pen/dIFof) icook
 * [12.click & offset](http://codepen.io/liao/pen/DHwzi) http://www.fontwalk.de/03/
 * [13.this](http://codepen.io/liao/pen/fCIbF)
 * [14.滾動視差 ](http://codepen.io/liao/pen/nIoCe)
 * [15.字體大中小 ](http://codepen.io/liao/pen/gvbln)
-* [16.插入內容append ](http://codepen.io/liao/pen/utcfj)
+* [16.插入內容append ](http://codepen.io/liao/pen/utcfj) 天攏
 * [17.if](http://codepen.io/liao/pen/IkyqB)
 * [18.插入內容append & if 驗證](http://codepen.io/liao/pen/goJLD)
 * [19.插入內容append & binding](http://codepen.io/liao/pen/nhzey)
 
 Data
 --------
-* [1.json ](http://codepen.io/liao/pen/yDdAf)
-* [2.cookie](http://codepen.io/liao/pen/noKtC)
-* [3.localstorage](http://codepen.io/liao/pen/LyKkf)
+* [1.json ](http://codepen.io/liao/pen/yDdAf) spa、ajax
+* [2.cookie](http://codepen.io/liao/pen/noKtC) http://www.adpartner.me/rtb.html baha
+* [3.localstorage](http://codepen.io/liao/pen/LyKkf) 萌典
 
 
 
